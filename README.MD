@@ -47,7 +47,7 @@ Agradecemos de antemano tus contribuciones y esperamos trabajar contigo en el de
 ## Contacto
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos. Puedes encontrarnos en:
 
-- Sitio web: [https://missalegralov.github.io/AlegraStudio-Site/#contact](https://www.alegrastudio.com)
+- Sitio web: [https://missalegralov.github.io/AlegraStudio-Site/#contact](Alegra Foundation)
 - Correo electrónico: alegrafoundation@gmail.com
 - Redes sociales: [Instagram](https://www.instagram.com/alegra_studio/?utm_source=ig_embed&ig_rid=90d0b929-8819-48be-8fac-39b73a3535c2&ig_mid=895A06B3-2416-4554-9F8B-F6B7B6216482) | [Twitter](https://x.com/alegracorp) | 
 
