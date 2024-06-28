@@ -1,0 +1,34 @@
+{
+  "canisters": {
+    "alegra_studio_dao": {
+      "main": "chapters/alegra_studio_dao/main.mo",
+      "type": "motoko"
+    },
+    "chapter_1": {
+      "main": "chapters/chapter_1/challenge/main.mo",
+      "type": "motoko"
+    },
+    "chapter_2": {
+      "main": "chapters/chapter_2/challenge/main.mo",
+      "type": "motoko"
+    },
+    "chapter_3": {
+      "main": "chapters/chapter_3/challenge/main.mo",
+      "type": "motoko"
+    },
+    "chapter_4": {
+      "main": "chapters/chapter_4/challenge/main.mo",
+      "type": "motoko"
+    },
+    "chapter_5": {
+      "main": "chapters/chapter_5/challenge/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "--hide-warnings",
+      "packtool": "mops sources"
+    }
+  }
+}
