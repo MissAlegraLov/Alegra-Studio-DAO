@@ -2,14 +2,14 @@
 
 > Este repositorio contiene el código base para el proyecto Alegra Studio DAO. Aquí encontrarás los archivos necesarios para desplegar y gestionar la DAO.
 
-<img src="./assets/cover.png"  alt="Alegra Studio Cover">
+<img src="./assets/LOGO192.png"  alt="Alegra Cover">
 
 ## Bienvenidos 👋
 
 Bienvenidos a Alegra Studio DAO, una plataforma diseñada para conectar y empoderar a artistas y emprendedores utilizando la tecnología blockchain. Nuestra misión es fomentar la creatividad y la colaboración mediante un sistema de recompensas basado en tokens.
 
 <p lign="center">
-  <img src="./assets/alegra_logo.png" width="500px" alt="Alegra Studio Logo">
+  <img src="./assets/missalegra.png" width="500px" alt="Alegra Studio Logo">
 </p>
 
 Para más información y actualizaciones, síguenos en [Instagram](https://www.instagram.com/missalegra.studio/).
