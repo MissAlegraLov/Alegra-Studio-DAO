@@ -1,3 +1,3 @@
-The DAO Adventure is licensed under the Creative Commons Attribution 4.0 International License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Alegra Studio DAO está licenciado bajo la Licencia Internacional Creative Commons Attribution 4.0 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Under this license, you are free to share, use, and build upon this work, commercially or non-commercially, as long as you provide appropriate credit to "The DAO Adventure," include a link to the license, and indicate if changes were made. This promotes open sharing and collaboration while ensuring recognition of the original creators.
+Bajo esta licencia, eres libre de compartir, usar y construir sobre este trabajo, tanto comercial como no comercialmente, siempre que proporciones el crédito adecuado a "Alegra Studio DAO", incluyas un enlace a la licencia y señales si se realizaron cambios. Esta licencia promueve la colaboración y el intercambio abierto mientras asegura el reconocimiento de los creadores originales.
