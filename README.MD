@@ -50,6 +50,7 @@ Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos. Puedes en
 - Sitio web: [Alegra Foundation Colombia](https://missalegralov.github.io/AlegraStudio-Site/#contact)
 - Correo electrónico: alegrafoundation@gmail.com
 - Redes sociales: [Instagram](https://www.instagram.com/alegra_studio/?utm_source=ig_embed&ig_rid=90d0b929-8819-48be-8fac-39b73a3535c2&ig_mid=895A06B3-2416-4554-9F8B-F6B7B6216482) | [Twitter](https://x.com/alegracorp) | 
+- Discord: [Club de Miss Alegra] (https://discord.gg/cVk9WvQj) Entorno controlado para testeos, por ahora  solo por estudiantes de la universidad sergio arboleda en Colombia.
 
 ## Créditos
 
