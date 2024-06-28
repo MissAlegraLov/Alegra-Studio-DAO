@@ -53,7 +53,7 @@ Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos. Puedes en
 
 ## Créditos
 
-Escrito por [Alexandra Granados](https://twitter.com/alexandra_granados) con el apoyo de [Alegra Studio](https://www.instagram.com/missalegra.studio/).
+Escrito por [Alexandra Granados](https://x.com/alegracorp) con el apoyo de [Alegra Studio](https://www.instagram.com/missalegra.studio/).
 
 
 ¡Esperamos verte pronto en Alegra Studio DAO!
